@@ -1,4 +1,4 @@
 # Run tests
-      - name: Run tests
-        run: mvn clean test
+- name: Run tests
+run: mvn clean test
 
